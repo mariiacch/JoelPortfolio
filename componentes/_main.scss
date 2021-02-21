@@ -1,0 +1,44 @@
+.text-01 {
+    
+    padding-bottom: 200px;
+    width: 80%;
+    h2{
+        color: $color-claro;
+        font-size: 80px;
+        font-weight: 700;
+        font-family: Neuemontreal, sans-serif;
+        margin-left: 70px;
+        margin-top: 90px;
+        padding: 16px;
+    }
+    &__p{
+        width: 80%;
+    }
+    &__p p {
+        
+        color:$color-gris;
+        font-weight: 400;
+        font-size: 27px;
+        margin-left: 70px;
+        padding: 25px;
+        
+    }
+    
+}
+
+.work{
+    margin-right: 64px;
+    margin-bottom: 256px;
+    margin-left: 104px;
+    width: 70%;
+    height: 500px;
+    
+    
+    &__title{
+        
+        color: $color-claro;
+        font-size: 80px;
+        font-weight: 700;
+        font-family: Neuemontreal, sans-serif;
+    }
+}
