@@ -6,9 +6,13 @@ $color-gris: #c4c4c4;
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    
 }
 
 body{
     font-family: 'Ilisarniq', sans-serif;
    background-color: $color-negro;
+   overflow-x: hidden;
 }
+
+
